@@ -1,0 +1,4 @@
+node_modules
+snowpack.config.js
+seed.js
+src/lib/firebase.js

@@ -1,0 +1,26 @@
+{
+  "name": "instagram-clone",
+  "version": "1.0.0",
+  "description": "an instagram clone made with react, tailwind, and firebase",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "VW Vats",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.19.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-loading-skeleton": "^2.2.0",
+    "react-router-dom": "^5.2.0"
+  },
+  "devDependencies": {
+    "@snowpack/plugin-dotenv": "^2.0.5",
+    "@snowpack/plugin-react-refresh": "^2.4.0",
+    "snowpack": "^3.0.13"
+  }
+}
